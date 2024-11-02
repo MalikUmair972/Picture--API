@@ -1,0 +1,12 @@
+img {
+    border-radius: 20px;
+    transition: 0.5s;
+}
+img:hover {
+    transform: translateY(-10px);
+    box-shadow:4px 10px 4px 10px rgba(0,0,0,0.3);
+}
+
+.content {
+    width: 800px;
+}
